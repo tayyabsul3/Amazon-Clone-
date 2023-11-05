@@ -268,7 +268,7 @@ nav  .hamburger span img
 
 .main .relative img
 {
-    width: 1519px;
+    max-width: 1519px;
 }
 .features
 {
